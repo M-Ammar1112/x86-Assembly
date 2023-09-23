@@ -6,13 +6,15 @@ Welcome to the TASM DOSBox Assembly Scripting project! This repository contains 
 
 This project includes the following assembly language tasks and concepts:
 
-- **String and Word Counting**: Efficiently count the occurrences of strings and words in a text.
+- **Spaces and Word Counting**: Efficiently count the occurrences of spaces and words in a text.
 
-- **Merging Arrays**: Combine and merge arrays to create new data structures.
+- **Merging Arrays**: Combine and merge arrays into a new array.
 
-- **Summing Arrays**: Calculate the sum of array elements, both in signed and unsigned formats.
+- **Summing Arrays**: Calculate the sum of array elements, both in signed and unsigned formats and saves it as a string and byte.
 
 - **Stacks**: Explore the use of stacks for efficient data manipulation.
+  
+- **Maximum Number**: Find and print maximum signed and unsigned number from the stack.
 
 ## Prerequisites
 
