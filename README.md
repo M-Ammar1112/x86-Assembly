@@ -22,7 +22,7 @@ To run the scripts in this project, you'll need:
 
 - [DOSBox](https://www.dosbox.com/): An x86 emulator with DOS.
 
-  ## Overview of DosBox environment
+## Overview of DosBox environment
 
 ![image](https://github.com/M-Ammar1112/x86-Assembly/assets/129176302/e4575e3c-5a2d-407f-a148-46533b610765)
   
